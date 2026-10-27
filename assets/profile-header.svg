@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Patrick Daether — ideas into working software</title>
+  <desc id="desc">A black and off-white banner with lime green accents and a schematic path from idea through building to production. Technical leadership, independent products, open source. Ulm, Germany.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#f1f1ec" stroke-opacity=".045"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="420" rx="12" fill="#0a0a0a"/>
+  <rect width="1280" height="420" rx="12" fill="url(#grid)"/>
+  <path d="M48 92H1232M48 342H1232" stroke="#f1f1ec" stroke-opacity=".2"/>
+  <rect x="48" y="41" width="12" height="12" fill="#c6ff00"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#f1f1ec">
+    <text x="76" y="56" font-size="24" font-weight="700" letter-spacing="2">PATRICK DAETHER</text>
+    <text x="1232" y="54" text-anchor="end" font-size="17" letter-spacing="2" fill="#b1b1aa">ULM, GERMANY</text>
+    <text x="43" y="195" font-size="88" font-weight="800" letter-spacing="-4">Ideas into</text>
+    <text x="43" y="287" font-size="88" font-weight="800" letter-spacing="-4">working software<tspan fill="#c6ff00">.</tspan></text>
+    <text x="48" y="384" font-size="16" letter-spacing="1.4" fill="#b1b1aa">TECHNICAL LEADERSHIP</text>
+    <text x="317" y="384" font-size="16" fill="#c6ff00">/</text>
+    <text x="345" y="384" font-size="16" letter-spacing="1.4" fill="#b1b1aa">INDEPENDENT PRODUCTS</text>
+    <text x="632" y="384" font-size="16" fill="#c6ff00">/</text>
+    <text x="660" y="384" font-size="16" letter-spacing="1.4" fill="#b1b1aa">OPEN SOURCE</text>
+    <text x="1232" y="384" text-anchor="end" font-size="16" letter-spacing="1" fill="#c6ff00">@pdaether</text>
+  </g>
+  <g stroke="#f1f1ec" stroke-opacity=".16" stroke-width="2">
+    <path d="M1000 132H1192V292H1000V132ZM1032 164H1160V260H1032V164ZM1064 196H1128V228H1064V196Z"/>
+    <path d="M968 132V292H936M1192 132H1224V260M1000 292V316H1160"/>
+  </g>
+  <path d="M968 148V276H1016V148H1176V276H1048V180H1144V244H1080V212H1112" stroke="#c6ff00" stroke-width="4"/>
+  <circle cx="968" cy="148" r="6" fill="#c6ff00"/>
+  <path d="M1104 204L1112 212L1104 220" stroke="#c6ff00" stroke-width="3"/>
+</svg>
