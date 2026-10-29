@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Patrick Daether — ideas into working software. Technical leadership, independent products, open source. Based in Ulm, Germany." width="100%">
+  <img src="https://raw.githubusercontent.com/pdaether/pdaether/main/assets/profile-header.svg" alt="Patrick Daether — ideas into working software. Technical leadership, independent products, open source. Based in Ulm, Germany." width="100%">
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ I use AI to accelerate the work, with human review and testing keeping the quali
 
 ### WebMaze · multiplayer nostalgia, one browser tab away
 
-[![WebMaze: a browser-based multiplayer maze shooter with colorful smiley opponents. Click to play.](assets/webmaze-preview.jpg)](https://webmaze.shuttlework.com/)
+[![WebMaze: a browser-based multiplayer maze shooter with colorful smiley opponents. Click to play.](https://raw.githubusercontent.com/pdaether/pdaether/main/assets/webmaze-preview.jpg)](https://webmaze.shuttlework.com/)
 
 My homage to **MIDI Maze and iMaze**: smiley-faced opponents, 3D labyrinths, and multiplayer battles you can share with a single link. **No download. No registration.**
 
